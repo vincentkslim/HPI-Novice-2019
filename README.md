@@ -7,6 +7,6 @@ the two points we needed for victory.
 # TODO
 
  - E (Special cases galore)
- - H (?????)
+ - H (????? How the hell do you do this problem)
  - I (String edit distance)
  
